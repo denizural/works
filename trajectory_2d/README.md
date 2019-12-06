@@ -1,4 +1,4 @@
-## 2D Isentropic Model of Mountain Flows
+## 2D Trajectory Code:
 ---
 
 #### Test runs of the 2D Trajectory code: all cases have before and after figures and mp4 animation movies.
