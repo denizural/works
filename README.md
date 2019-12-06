@@ -1,3 +1,5 @@
+## Scientific Works:
+---
 * **aspect_postproc:** Python based post-processing framework developed for the finite element code ASPECT
 
 * **business_analytics:** data science works
@@ -8,7 +10,7 @@
 
 * **elasticity_fem:** Finite element simulations of elasticity
 
-* **kasahara66:** 2D flow of a mountain on a periodic channel
+* **kasahara66:** 2D flow over a mountain on a periodic channel
 
 * **mountain_flow_model:** 2D isentropic model over a mountain. Dry and moist simulations
 
