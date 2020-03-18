@@ -16,7 +16,9 @@
 
 * **finding_vertex_neighbors_algorithm_test.png:** output of the vertex-based neighbor finding algorithm in a random set of points
 
-* **nonvectorized_vs_vectorized_speed.png:** optimization of the fluctuation computation code
+* **fluctuation_vs_vectorized_random_dataset.png:** comparison of the computation speeds of the pure Python, vectorized Python (numpy), and the C++ codes. Random graphs are used.
+
+* **fluctuation_vs_vectorized_guf_dataset.png:** comparison of the computation speeds of the pure Python, vectorized Python (numpy), and the C++ codes. Real case data (GUF) is used.
 
 * **rng_10240_r_package_bugs_detected.png:** the bug I discovered in the R package that can be downloaded from CRAN.
 
